@@ -1,9 +1,7 @@
 <div align="center">
   <h1>Hi there! 👋 I'm Keith Anndrei A. Ciruelas</h1>
   <h3>A Passionate Full-stack Developer from the Philippines 🇵🇭</h3>
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=kitciruelas&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/kitciruelas)
-  
+    
 </div>
 
 ### 🚀 About Me
