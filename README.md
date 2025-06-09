@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kitciruelas&label=Profile%20views&color=0e75b6&style=flat" alt="kitciruelas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kitciruelas" alt="kitciruelas" /></a> </p>
 
 - 🔭 I’m currently working on **PROTEQ – a Web-Based Emergency Response and Safety Management System**
 
