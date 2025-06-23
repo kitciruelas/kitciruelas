@@ -8,7 +8,7 @@
 
 - 🔭 Currently developing **PROTEQ** – A Web-Based Emergency Response and Safety Management System
 - 🌱 Expanding my skills in **React, Node.js, Express, Vue, and REST API development**
-- 💡 Expert in **PHP, MySQL, Bootstrap, and system architecture**
+- 💡 Learning and improving skills in **PHP, MySQL, Bootstrap, and JS**
 - 📫 Reach me at: **ciruelaskeithandrei@gmail.com**
 
 ### 🤝 Connect with Me
