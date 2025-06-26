@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there! 👋 I'm Keith Anndrei A. Ciruelas</h1>
+  <h1>Hi! 👋 I'm Keith Anndrei A. Ciruelas</h1>
   <h3>A Passionate Full-stack Developer from the Philippines 🇵🇭</h3>
     
 </div>
